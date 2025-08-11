@@ -1,0 +1,30 @@
+List of necessary Data files
+
+
+Carbon_means_X_vector_v6.csv                           (ok)
+
+log_biovolume_means_X_vector_v5c.csv                       (ok)
+
+Stations overview Atlantic size spectraV6_Carbon_units.csv     (ok)
+
+Atlantic_size_spectraV5c_forR_Biovol_only                       (OK)
+
+outp_Carbon_phytopl_All_Atl_p_rsq_slope_ratio_okv55.csv           (ok)
+
+outp_Carbon_phytopl_All_Atl_p_rsq_slope_ratio_ok.csv             (ok)
+
+phytopl.All.Atl.unfiltr.nolims727.csv                            (ok)
+
+outp_Biovol_phytopl_All_Atl_p_rsq_slope_ratio_ok_V6c.csv         (ok)
+
+outp_Carbon_phytopl_All_Atl_p_rsq_slope_ratio_okv55.csv         (ok)
+
+Atlantic_size_spectraV5c_forR_Biovol_only.csv                (ok)
+
+outp_zoopl_All_Atl4f_Net_CARB.csv                         (ok)
+
+zoopl.All.Atl_p_rsq_RR_OK4e_n433_CARBON.csv              (ok)
+
+outp_zoopl_All_Atl4f_UVP_CARB.csv                        (ok)
+
+outp_zoopl_All_Atl4f_Net_CARB.csv                         (ok) 
